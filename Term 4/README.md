@@ -1,4 +1,4 @@
-# Core
+# Core Term 4
 
 Let the internship prep begin!
 

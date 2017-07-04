@@ -1,4 +1,5 @@
-# Core
+# Core Term 3
+
 Think Big.
 
 After winter break, core class focuses on a big group project with teams of 4-5 engineers. You'll specialize in a particular role (front end, back end, etc) and execute an ambitious project to impact the world.

@@ -10,10 +10,10 @@ Mark Zuckerberg says there is such thing as a 100x developer - an engineer who i
 
 ## Objectives & Competencies
 * Optimize your calendar to improve your skills
-* Eliminate distractions
+* Eliminate distractions from technology and people
 * Better manage your workflow and organization
 * Request feedback in a way that makes it easy for others to help your
-* Give feedback in a way that cultivates confidence
+* Give feedback in a way that cultivates confidence of the recipient
 * Master the basics of GitHub
 * Utilize Stack overflow
 * Agile development:
