@@ -2,7 +2,9 @@
 
 Your success as a developer stems from your ability to manage yourself.
 
-The theme for Core term one one is "Productivity & Developer Success Skills." You'll  focus on establishing productive learning and work habits and gain initial mastery of the fundamental processes of software development and agile development.
+The theme for core term one is "Productivity & Developer Success Skills." You will master the skills that are often taught only in the first months of a job. Time management, communication techniques and expectations, as well as fundamental technical skills that all developers must know such as advanced Git and Github techniques, Unix commands, keyboard shortcuts, etc.
+
+You'll focus on establishing productive learning and work habits and gain initial mastery of the fundamental processes of software development and agile development.
 
 Mark Zuckerberg says there is such thing as a 100x developer - an engineer who is one hundred times more productive than others. These lessons will give you the foundation to achieve more in less time.
 

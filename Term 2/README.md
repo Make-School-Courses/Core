@@ -1,6 +1,10 @@
 # Core
 
-Term two focuses on the foundational skills of becoming a successful entrepreneur. You'll build your own app as you use lean product development methodology, conduct user research, assess market potential, and design an exceptional user interface. You'll learn SCRUM planning, an agile process used to ensure that your app meets user needs and technical specifications.
+Calling all product developers!
+
+Term two focuses on the foundational skills one needs to become a successful entrepreneur. In pairs, You'll build an app as you use lean product development methodology, conduct user research, assess market potential, and design an exceptional user interface. You'll learn SCRUM planning, an agile process used to ensure that your app meets user needs and technical specifications.
+
+Whether you want to start a company or not, these classes will teach you the tangental processes that help teams prioritize features and achieve product-market fit.
 
 Throughout this term, you'll  deepen your knowledge of how computers and the internet works. By the end you'll understand the foundations that shape the technology industry.
 

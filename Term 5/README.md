@@ -1,1 +1,20 @@
+# Core
 
+Time to apply to jobs.
+
+We'll start with a 2 day workshop on finding companies and writing cover letters. This will ensure that your application is well organized and focused.
+
+Classes will focus on the post application skills: behavioral interviews, negotiation, on-boarding at a new company. There will also be plenty of structured lab time for you to get support from instructors as you apply.
+
+The Make School staff is waiting and eager to connect you to startups and companies in our network: HR professionals, alumni, friends at YC companies and tech giants, and more. Please reach out.
+
+We are also on hand to help you negotiate your contract and assess which company is the best fit.
+
+## Learning Objectives & Competencies
+* Get warm introductions to companies
+* Create a contact management system to track progress with potential employers
+* Apply to reach, match and target companies
+* Negotiate your contract
+* Execute an exceptional behavioral interview
+
+## Lessons
