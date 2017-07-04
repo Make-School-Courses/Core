@@ -15,12 +15,14 @@ We'll cover organizational psychology research on what makes teams thrive. You'l
 Core culminates with Demo Night presentations of shipped product. It's a stellar opportunity to showcase your work to the larger Make School network and share what you've learned.
 
 ## Learning Objectives & Competencies
-* Leadership: structure team workflow to optimize productivity and output
+* Leadership: structure team workflow to optimize team productivity and output
 * Structure and implement team 360 reviews
+* Create an investor pitch deck and deliver a formal investor pitch
 * _Synthesizing Learnings from Term 2_
 * _Technical Problems Solving and Interview Questions_
 
 ## Lessons
+_[Official Calendar](http://54.213.125.176/mediawiki/index.php/Core_Curriculum)_
 * Intro: Ideation & Team Formation
 * Idea Validation & Presentation
 * Lab: Sprint Planning & Scoping

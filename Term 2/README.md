@@ -1,4 +1,4 @@
-# Core
+# Core Term 2
 
 Calling all product developers!
 
@@ -10,11 +10,25 @@ Throughout this term, you'll  deepen your knowledge of how computers and the int
 
 
 ## Learning Objectives & Competencies
-* Conduct market research to develop and validate a business model for your product.
+* Compare and contrast waterfall and agile scoping
+* Make an agile phased plan for scoping a product
+* Explain the value of customer development, lean startup, and get out of the building patterns of business and product generation.
+* Gain familiarity with a landscape of the domain and begin to identify some challenges and opportunities in the domain area.
+* Gain awareness of one’s own assumptions and biases about the domain and its problems and solutions.
+* Plan for and conduct a user interview
+* Write a debiased user interview script
 * Validate your assumptions around your business model using market research, a landing page, your MVP, user interviewing, and analytics of real users & customers.
-* Create an investor pitch deck and deliver a formal investor pitch
+* Write brief, useful user narratives
+Follow best practices and look for inspirations when designing your MVP
+* Draw paper wireframes of your MVP
+* Use the business model canvas to catalog your business model assumptions and hypotheses.
+* Prepare your backlog and do “Planning Poker”
+* Setup your kanban board
+* Plan and conduct a user test, update your backlog from what you learn
+
 
 ## Lessons
+_[Official Calendar](http://54.213.125.176/mediawiki/index.php/Core_Curriculum)_
 * Lean Product Development & Rats   
 * User Interviews
 * Market research: competitive landscape, estimate appreciable market, identify tailwinds, Business Model Canvas

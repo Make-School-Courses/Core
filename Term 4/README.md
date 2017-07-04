@@ -17,10 +17,12 @@ By the end of the term, you'll be ready to apply to internships.
 * Become more competent and confident at white board coding and technical interviews
 
 ## Lessons
+_[Official Calendar](http://54.213.125.176/mediawiki/index.php/Core_Curriculum)_
 * Understanding the Recruiting landscape
 * Resume workshop
 * LinkedIn profiles
 * Github Profiles
+*
 
 ## Evaluation
 * Submit the following for staff approval:

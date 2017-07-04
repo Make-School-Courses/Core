@@ -1,4 +1,4 @@
-# Core
+# Core Term 5
 
 Time to apply to jobs.
 
@@ -16,5 +16,7 @@ We are also on hand to help you negotiate your contract and assess which company
 * Apply to reach, match and target companies
 * Negotiate your contract
 * Execute an exceptional behavioral interview
+* Note find internship search resources on the [Wiki](http://54.213.125.176/mediawiki/index.php/Main_Page)
 
 ## Lessons
+_[Official Calendar](http://54.213.125.176/mediawiki/index.php/Core_Curriculum)_
