@@ -15,6 +15,6 @@ Core is required by all students and meets twice a week during the first year. I
 * [*Term 4 Job Prep*](https://github.com/Product-College-Courses/Core/tree/master/Term%204) - Now with 3-4 projects in their portfolio, students learn what it takes to succeed in today’s job market. They get in the mindset of a recruiter and craft their resume, LinkedIn, and cover letters to highlight their accomplishments and pitch their talents. They also learn the foundational skills of technical interviewing and white board coding.
 
 
-* [*Apply to Jobs*](https://github.com/Product-College-Courses/Core/tree/master/Term%205)  - Students apply to jobs and begin interviewing at companies. The Make School staff is waiting and eager to connect students to startups and companies in our network. We are on hand to help students negotiate their contract and assess which company is the best fit.
+* [*Term 5 Apply to Jobs*](https://github.com/Product-College-Courses/Core/tree/master/Term%205)  - Students apply to jobs and begin interviewing at companies. The Make School staff is waiting and eager to connect students to startups and companies in our network. We are on hand to help students negotiate their contract and assess which company is the best fit.
 
-Click the links above to see more in-depth syllabi
+Click the links above to see more in-depth syllabi.
