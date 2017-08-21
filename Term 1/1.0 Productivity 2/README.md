@@ -1,16 +1,18 @@
 # H1 Productivity Resources
 
-###### H6 Lesson
+#### Competencies
 * sdsd
 *
 *
 
-##### H5 Resources
+#### Slides or Teaching Points
+
+#### Resources
 *
 * sdsd
 *
 
-#### H4 Homework
+#### Homework
 * sdsd
 *
 *
