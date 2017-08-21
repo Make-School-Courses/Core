@@ -1,23 +1,26 @@
 # Productivity Resources
 
+
+## Intro (optional)
+
 ## Competencies & Objectives
 * Optimize your calendar to improve your skills
 * Eliminate distractions
 * Be productive: get shit done
 
-## Slides or Teaching Points (Note: might be on the wiki!)
+## Slides or Teaching Points (//you might put this content on the wiki! And link to it)
 
-## Resources (Note: might be better put on the wiki!)
+## Resources (Note: might put on the wiki instead!)
 
-## Baseline Challenges
+## Baseline Challenges (optional)
 * 
 *
 
-## Stretch Challenges
+## Stretch Challenges (optional)
 * 
 *
 
-## Homework
+## Homework (optional)
 * 
 *
 *
