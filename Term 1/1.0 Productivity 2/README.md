@@ -1,19 +1,25 @@
-# H1 Productivity Resources
+# Productivity Resources
 
-#### Competencies
+## Intro
+
+## Competencies & Objectives
 * Optimize your calendar to improve your skills
 * Eliminate distractions
 * Be productive: get shit done
 
 
-#### Slides or Teaching Points
+## Slides or Teaching Points
 
-#### Resources
+## Resources
 *
 * sdsd
 *
 
-#### Homework
+## Baseline Challenges
+
+## Stretch Challenges
+
+## Homework
 * sdsd
 *
 *
