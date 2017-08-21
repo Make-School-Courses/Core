@@ -5,20 +5,20 @@
 * Eliminate distractions
 * Be productive: get shit done
 
+## Slides or Teaching Points (Note: might be on the wiki!)
 
-## Slides or Teaching Points
-
-## Resources
-*
-* sdsd
-*
+## Resources (Note: might be better put on the wiki!)
 
 ## Baseline Challenges
+* 
+*
 
 ## Stretch Challenges
+* 
+*
 
 ## Homework
-* sdsd
+* 
 *
 *
 
