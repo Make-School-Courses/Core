@@ -1,9 +1,10 @@
 # H1 Productivity Resources
 
 #### Competencies
-* sdsd
-*
-*
+* Optimize your calendar to improve your skills
+* Eliminate distractions
+* Be productive: get shit done
+
 
 #### Slides or Teaching Points
 
