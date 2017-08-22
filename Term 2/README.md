@@ -28,7 +28,7 @@ Follow best practices and look for inspirations when designing your MVP
 
 
 ## Lessons
-Access lesson sylabi through the links above this README.md
+Access lesson sylabi through the [links](https://github.com/Product-College-Courses/Core/tree/master/Term%202) above this README.md
 * Lean Product Development & Rats   
 * User Interviews
 * Market research: competitive landscape, estimate appreciable market, identify tailwinds, Business Model Canvas
