@@ -28,6 +28,7 @@ Follow best practices and look for inspirations when designing your MVP
 
 
 ## Lessons
+Access lesson sylabi through the links above this README.md
 * Lean Product Development & Rats   
 * User Interviews
 * Market research: competitive landscape, estimate appreciable market, identify tailwinds, Business Model Canvas
@@ -38,7 +39,7 @@ Follow best practices and look for inspirations when designing your MVP
 * Unix Utilities & Command Line Tools, part 2
 * How Computers Work, part 2
 * How Computers Work, part 3
-Access lesson sylabi through the links above this README.md
+
 
 
 ## Evaluations
