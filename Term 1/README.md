@@ -25,7 +25,6 @@ Mark Zuckerberg says there is such thing as a 100x developer - an engineer who i
 
 
 ## Lessons
-_[Official Calendar](http://54.213.125.176/mediawiki/index.php/Core_Curriculum)_
 * Productivity 2: Prioritization and Task Management
 * Git & GitHub, part 1: Clone, Push & Pull
 * Asking For & Giving Feedback
