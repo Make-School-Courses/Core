@@ -28,7 +28,6 @@ Follow best practices and look for inspirations when designing your MVP
 
 
 ## Lessons
-_[Official Calendar](http://54.213.125.176/mediawiki/index.php/Core_Curriculum)_
 * Lean Product Development & Rats   
 * User Interviews
 * Market research: competitive landscape, estimate appreciable market, identify tailwinds, Business Model Canvas
@@ -39,7 +38,7 @@ _[Official Calendar](http://54.213.125.176/mediawiki/index.php/Core_Curriculum)_
 * Unix Utilities & Command Line Tools, part 2
 * How Computers Work, part 2
 * How Computers Work, part 3
-
+Access lesson sylabi through the links above this README.md
 
 
 ## Evaluations
