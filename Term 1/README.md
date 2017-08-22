@@ -25,6 +25,7 @@ Mark Zuckerberg says there is such thing as a 100x developer - an engineer who i
 
 
 ## Lessons
+Access lesson sylabi through the numbered [links](https://github.com/Product-College-Courses/Core/tree/master/Term%201) above this README.md
 * Productivity 2: Prioritization and Task Management
 * Git & GitHub, part 1: Clone, Push & Pull
 * Asking For & Giving Feedback
@@ -35,6 +36,8 @@ Mark Zuckerberg says there is such thing as a 100x developer - an engineer who i
 * Git & GitHub, part 2: Fork, Branch, Merge & Pull Request
 * How the Internet Works, part 1
 * How Computers Work, part 1
+Access
+
 
 ## Evaluations
 In order to succeed in Core you must
