@@ -12,15 +12,15 @@
 
 ### Resources (Note: might put on the wiki instead!)
 
-### Baseline Challenges
+#### Baseline Challenges
 * 
 *
 
-## Stretch Challenges (inclusion optional)
+#### Stretch Challenges (inclusion optional)
 * 
 *
 
-## Additional Learning (inclusion optional)
+#### Additional Learning (inclusion optional)
 * 
 *
 *
