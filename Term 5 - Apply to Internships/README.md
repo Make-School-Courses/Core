@@ -8,6 +8,8 @@ Classes will focus on the post application skills: behavioral interviews, negoti
 
 The Make School staff is waiting and eager to connect you to startups and companies in our network: HR professionals, alumni, friends at YC companies and tech giants, and more. Please reach out.
 
+Juniors will apply to internships. Seniors will apply to full time jobs.
+
 We are also on hand to help you negotiate your contract and assess which company is the best fit.
 
 ## Learning Objectives & Competencies
