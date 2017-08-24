@@ -13,6 +13,8 @@ Your team will dive deep into the nuance of an industry, talk with experts in th
 
 We'll cover organizational psychology research on what makes teams thrive. You'll get hands on experience navigating team dynamics and troubleshooting common communication challenges.
 
+Juniors and Seniors will both be in this class. Seniors are expected to take a leadership role on teams.
+
 Core culminates with Demo Night presentations of shipped product. It's a stellar opportunity to showcase your work to the larger Make School network and share what you've learned.
 
 ## Learning Objectives & Competencies
@@ -23,7 +25,6 @@ Core culminates with Demo Night presentations of shipped product. It's a stellar
 * _Technical Problems Solving and Interview Questions_
 
 ## Lessons
-_[Official Calendar](http://54.213.125.176/mediawiki/index.php/Core_Curriculum)_
 * Intro: Ideation & Team Formation
 * Idea Validation & Presentation
 * Lab: Sprint Planning & Scoping
