@@ -1,4 +1,4 @@
-# Core Term 3
+# Core Term 3 (for Juniors) & 7 (for Seniors)
 
 Think Big.
 
