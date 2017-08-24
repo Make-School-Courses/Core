@@ -1,4 +1,4 @@
-# Core Term 5
+# Core Term 5 (for Juniors) and Term 10 (for Seniors)
 
 Time to apply to jobs.
 
